@@ -29,22 +29,7 @@ The goal of this repo is to:
 ## 📁 Folder Structure
 
 ```
-java/
- ├── src/
- │    ├── basics/
- │    ├── arrays/
- │    ├── strings/
- │    ├── recursion/
- │    ├── linkedlist/
- │    ├── stack/
- │    ├── queue/
- │    ├── tree/
- │    ├── graph/
- │    ├── dp/
- │    ├── greedy/
- │    └── practice/
- │
- └── README.md
+![alt text](image.png)
 ```
 
 ### 📌 Folder Purpose

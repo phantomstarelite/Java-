@@ -144,11 +144,17 @@ This repository is updated regularly as I solve more problems and improve my und
 
 ---
 
-## 📌 Author
+## 📂 Additional Documentation
 
-**Pratik**
-Computer Science Student | Java & DSA Learner
+- 📋 **[PROBLEMS.md]** → List of LeetCode problems solved
+- 📅 **[PROGRESS.md]** → Daily DSA progress tracker
 
 ---
+
+## 👤 Author
+
+**Pratik**  
+Computer Science Student  
+Java | DSA | Problem Solving
 
 

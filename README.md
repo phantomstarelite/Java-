@@ -28,9 +28,8 @@ The goal of this repo is to:
 
 ## 📁 Folder Structure
 
-```
 ![alt text](image.png)
-```
+
 
 ### 📌 Folder Purpose
 

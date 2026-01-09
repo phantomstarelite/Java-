@@ -28,3 +28,9 @@ public class TwoSum {
         System.out.println(ans[0] + " " + ans[1]);
     }
 }
+
+/*
+    It time and space complexity is O(n)
+*/
+
+

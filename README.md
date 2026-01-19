@@ -33,20 +33,45 @@ The goal of this repo is to:
 
 ### 📌 Folder Purpose
 
-| Folder     | Description                  |
-| ---------- | ---------------------------- |
-| basics     | Java fundamentals for DSA    |
-| arrays     | Array-based problems         |
-| strings    | String manipulation problems |
-| recursion  | Recursive solutions          |
-| linkedlist | Linked List problems         |
-| stack      | Stack-based problems         |
-| queue      | Queue-based problems         |
-| tree       | Binary Tree / BST            |
-| graph      | Graph algorithms             |
-| dp         | Dynamic Programming          |
-| greedy     | Greedy algorithms            |
-| practice   | Mixed & revision problems    |
+
+| Folder | Description |
+|------|-------------|
+| arrays | Array-based DSA problems (hashing, two pointers, Kadane, greedy basics) |
+| basics | Java fundamentals required for DSA (loops, conditions, arrays, OOP basics) |
+| dp | Dynamic Programming problems (memoization, tabulation, space optimization) |
+| graph | Graph algorithms (BFS, DFS, shortest path, connected components) |
+| greedy | Greedy algorithm problems and optimization strategies |
+| interviewquestions | Frequently asked interview questions with explanations & solutions |
+| linkedlist | Singly & doubly linked list problems (pointer manipulation, cycles) |
+| notes | Concept notes, week-wise study material, and revision documentation |
+| practice | Mixed practice problems and revision-level questions |
+| queue | Queue & deque problems (BFS, sliding window, circular queue) |
+| quiz | Self-test quizzes for DSA concepts and patterns |
+| recursion | Recursion and backtracking problems (base case → recursion tree) |
+| stack | Stack-based problems (LIFO, monotonic stack, expressions) |
+| strike | Daily streak / challenge-based problems (consistency tracking) |
+| strings | String manipulation problems (frequency, hashing, sliding window) |
+| tree | Binary Tree & BST problems (DFS, BFS, recursion-based traversal) |
+
+---
+
+## 📄 Root Files
+
+| File | Description |
+|-----|-------------|
+| README.md | Project overview, roadmap, and folder explanation |
+| Problems.md | Complete list of solved LeetCode problems |
+| Progress.md | Week-wise learning & problem-solving progress |
+| LICENSE | Open-source license for the repository |
+| image.png | Visual asset used in README or documentation |
+
+---
+
+## 📌 Notes
+- Folder structure follows a **pattern-first DSA roadmap**
+- Problems are organized from **easy → medium → hard**
+- Designed for **interview preparation + clean GitHub presentation**
+- Easily scalable as new topics and problems are added
 
 ---
 

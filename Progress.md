@@ -11,10 +11,10 @@ This file tracks **daily consistency and learning progress**.
 | Day 1 | | Two Sum | Hashing |
 | Day 2 | | Contains Duplicate | HashSet |
 | Day 3 | | Best Time to Buy Stock | Greedy |
-| Day 4 | | Maximum Subarray | DP |
-| Day 5 | | Valid Anagram | Strings |
-| Day 6 | | Revision | Mixed |
-| Day 7 | | Revision | Mixed |
+| Day 4 | | Maximum Subarray | DP/ Kadane |
+| Day 5 | | Remove Duplicate | Two Pointer |
+| Day 6 | | Remove Element | Two Pointer |
+| Day 7 | | Single Number | Bit Manipulation (XOR) |
 
 ---
 
